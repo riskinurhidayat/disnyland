@@ -1,5 +1,8 @@
 public class person{
-int age;  
+int age; 
+public void setAge(int age){
+  this.age=age;
+}
   private address alamat
 
 
